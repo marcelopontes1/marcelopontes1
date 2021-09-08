@@ -1,5 +1,7 @@
 ### Olá, Hello, Salut! My name is Marcelo Pontes 😄
 
+I'm from Brazil and I'm also a telecommunications engineer. I'm currently living in France, doing a master's degree in networking and telecommunications with a focus on administration and security at the University of Reims Champagne-Ardenne. 
+
 <div>
   <a href="https://github.com/marcelopontes1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelopontes1&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
