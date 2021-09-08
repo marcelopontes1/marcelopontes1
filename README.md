@@ -11,6 +11,7 @@ I'm from Brazil and I'm also a telecommunications engineer. I'm currently living
 <div style="display: inline_block"><br>
   <img align="center" alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=whit">
 </div>
   
 ##
@@ -20,4 +21,4 @@ I'm from Brazil and I'm also a telecommunications engineer. I'm currently living
   <a href="https://www.linkedin.com/in/marcelopontestele" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-  
+ 
