@@ -2,11 +2,15 @@
 
 I'm from Brazil and I'm also a telecommunications engineer. I'm currently living in France, doing a master's degree in networking and telecommunications with a focus on administration and security at the University of Reims Champagne-Ardenne. 
 
+##
+
 <div>
   <a href="https://github.com/marcelopontes1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelopontes1&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelopontes1&layout=compact&langs_count=7&theme=default"/>
 </div>
+  
+  ##
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
